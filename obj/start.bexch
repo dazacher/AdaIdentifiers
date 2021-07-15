@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__start.o
+[PROJECT FILES]
+C:\Users\User\Ada\Identifiers\identifiers.gpr
+20210715153608 dac886f17ba656817995cb0f69d1fba2
+[BOUND OBJECT FILES]
+C:\Users\User\Ada\Identifiers\obj\start.o
+[GENERATED SOURCE FILES]
+b__start.ads
+b__start.adb
+b__start.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Ada\Identifiers\obj\
+-LC:\Users\User\Ada\Identifiers\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

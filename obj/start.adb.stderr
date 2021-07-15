@@ -1,0 +1,1 @@
+start.adb:13:05: error: "THISISNOTGOINGTOWORK" conflicts with declaration at line 12
