@@ -1,1 +1,3 @@
-start.adb:13:05: error: "THISISNOTGOINGTOWORK" conflicts with declaration at line 12
+start.adb:4:05: warning: variable "This_Is_Legal" is never read and never assigned [-gnatwv]
+start.adb:5:05: warning: variable "ThisIsLegal" is never read and never assigned [-gnatwv]
+start.adb:6:05: warning: variable "AndsABunchOfWordsToMakeASuperLongVariableName" is never read and never assigned [-gnatwv]
